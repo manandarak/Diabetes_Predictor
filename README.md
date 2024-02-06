@@ -1,2 +1,4 @@
 # Diabetes_Predictor
 Developed a diabetes predictor using Support Vector Machine (SVM) in scikit-learn. Trained on relevant features, the model accurately predicts diabetes risk. This tool aids in early detection and proactive management of diabetes, promoting better health outcomes.
+
+Diabetes predictor uses scikit-learn, NumPy, and Pandas to make it simple and effective. We gather information about things like glucose levels and age. With Pandas, we clean and organize the data, while NumPy helps with calculations. The magic happens with Support Vector Machine (SVM) from scikit-learn, a smart tool that learns patterns from the data. It's like finding the best line to separate people with and without diabetes. This model is accurate and helpful for spotting diabetes early, letting people take action for better health. It's a friendly mix of tools making a smart and easy way to predict diabetes.
